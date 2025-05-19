@@ -100,6 +100,8 @@ Shows monthly trends of spending across all categories.
 - Building and consuming **REST APIs**.
 - Data visualization using **bar charts** and **tables**.
 - Structuring a scalable Python project.
+- Implementing Database **CRUD** Opreations.
+- Establishing automated **tests** setups for **CRUD**.
 - Testing APIs with **Postman**.
 - Version control with **Git**.
 
