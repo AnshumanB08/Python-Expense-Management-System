@@ -29,5 +29,5 @@ This project is an expense management system that consists of a Streamlit fronte
    ```
 4. **Run the Streamlit app:**:   
    ```commandline
-    streamlit run frontend/app.py
+    streamlit run Frontend/app.py
    ```
