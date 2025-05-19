@@ -17,17 +17,22 @@ This project is an expense management system that consists of a Streamlit fronte
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/Python-Expense-Management-System.git
+   
    cd Python-Expense-Management-System
    ```
 2. **Install dependencies:**:   
    ```commandline
-    pip install -r requirements.txt
+   pip install -r requirements.txt
    ```
 3. **Run the FastAPI server:**:   
    ```commandline
-    uvicorn server.server:app --reload
+   cd Backend
+   
+   uvicorn server:app --reload
    ```
 4. **Run the Streamlit app:**:   
    ```commandline
-    streamlit run Frontend/app.py
+   cd Frontend
+   
+   streamlit run ./app.py
    ```
